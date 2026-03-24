@@ -1,4 +1,6 @@
-# ds-2002-project-1
+# Project 1: Mid-Term
+#### Due: Mon Mar 23, 2026 11:59pm
+
 
 # AdventureWorks Retail Sales Data Mart: ETL Pipeline
 
